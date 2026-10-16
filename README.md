@@ -1,6 +1,6 @@
 # ¡Hola! Soy Martín 👋
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por la programación, la arquitectura de software y las nuevas tecnologías.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** interesado por la programación, la arquitectura de software y las nuevas tecnologías.
 
  ### 🛠️ Tecnologías y Herramientas
 
