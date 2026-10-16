@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Martín 👋
 
-<!--
-**Martin-fb-28/Martin-fb-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por la programación, la arquitectura de software y las nuevas tecnologías.
 
-Here are some ideas to get you started:
+ ### 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Lenguajes:** Java, Python, HTML, CSS, XML, JSON, YAML
+* **Herramientas & IDEs:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, Antigravity IDE
+
+### Sobre mí
+
+* 🎓 Actualmente cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+* 🎯 **Objetivo:** Adquirir experiencia práctica en entornos de desarrollo reales y contribuir a proyectos de impacto.
+
+📫 **¿Quieres contactar conmigo?**  
+[LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-freire-bao-5a160336b/) | [Email](mailto:martinfbao@oulook.es)
